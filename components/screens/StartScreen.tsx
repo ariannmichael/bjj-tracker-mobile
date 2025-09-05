@@ -39,7 +39,7 @@ export default function StartScreen() {
       return;
     }
 
-    router.replace('/(authenticated)/dashboard');
+    router.replace('/(signup)/signup');
   };
 
   return (
